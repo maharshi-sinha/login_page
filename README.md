@@ -1,5 +1,5 @@
 # login_page
-## Login Page using Python language.
+## Language Used : Python
 ## Module Used : Tkinter
 ### Looks like :
 
