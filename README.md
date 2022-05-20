@@ -1,4 +1,4 @@
-# Tkinter login and register form. Enter username and password and then validate it using login form
+## Tkinter login and register form. Enter username and password and then validate it using login form
 ## Language used : Python
 ## Module Used : Tkinter
 It looks like :
